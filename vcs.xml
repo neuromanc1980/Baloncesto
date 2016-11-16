@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/neuromanc1980/Taller" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alfredorueda/BaloncestoREST_API.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
